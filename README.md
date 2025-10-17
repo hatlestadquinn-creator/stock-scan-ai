@@ -1,4 +1,4 @@
-# stock-scan-ai
+
 # ai_stock_screener_app.py
 # Streamlit AI Stock Screener
 
